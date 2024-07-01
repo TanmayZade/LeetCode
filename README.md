@@ -1,9 +1,8 @@
 # LeetCode Solutions
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-Progress-orange)](https://leetcode.com/your-username)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Progress-orange)](https://leetcode.com/_tanmay_zade_)
 
-![LeetCode](https://media.giphy.com/media/3o7TKsQ7UzgN9cH5P6/giphy.gif)
-
+![LeetCode Stats](https://leetcode.card.workers.dev/_tanmay_zade_?theme=dark&font=baloo&extension=activity)
 ## 🚀 Welcome to My Daily LeetCode Solutions Repository! 🚀
 
 🔍 **Explore**: Dive into my daily solutions to various LeetCode problems. This repository is regularly updated with new solutions as part of my commitment to continuous learning and improvement.
@@ -16,5 +15,4 @@
 
 Happy coding! 💡✨
 
-## 📂 Repository Structure
 
