@@ -1,26 +1,12 @@
 class Solution {
     public String kthDistinct(String[] arr, int k) {
-        ArrayList<String> DistStrings = new ArrayList<>();
-        int n = arr.length;
-
-        for(int i = 0; i < n; i++){
-            String currentString = arr[i];
-            boolean isDistinct = true;
-            for(int j = 0; j < n ;j++){
-                if(j == i)
-                    continue;
-                if(arr[j].equals(currentString)){
-                    isDistinct = false;
-                    break;
-                }
-            }
-
-            if(isDistinct)
-                DistStrings.add(currentString);
+        Map<String,Integer> count=new HashMap<>();
+        for(final String s:arr){
+            count.merge(s,1,Integer::sum);
         }
-        if(DistStrings.size() < k)
-            return "";
-
-        return DistStrings.get(k - 1);
-    }
+        for(final String s:arr){
+            if(count.get(s)==1 &&--k==0)
+                return s;
+        }
+    return "";}
 }
