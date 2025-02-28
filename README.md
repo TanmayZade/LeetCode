@@ -23,10 +23,12 @@ Happy coding! 💡✨
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/TanmayZade/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0169-majority-element](https://github.com/TanmayZade/LeetCode/tree/master/0169-majority-element) |
 | [3227-find-missing-and-repeated-values](https://github.com/TanmayZade/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/TanmayZade/LeetCode/tree/master/0169-majority-element) |
 | [3227-find-missing-and-repeated-values](https://github.com/TanmayZade/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## Math
 |  |
@@ -46,4 +48,16 @@ Happy coding! 💡✨
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/TanmayZade/LeetCode/tree/master/0050-powx-n) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/TanmayZade/LeetCode/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/TanmayZade/LeetCode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/TanmayZade/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
