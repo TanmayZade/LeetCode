@@ -31,6 +31,7 @@ Happy coding! 💡✨
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/TanmayZade/LeetCode/tree/master/0050-powx-n) |
 | [3227-find-missing-and-repeated-values](https://github.com/TanmayZade/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## Matrix
 |  |
@@ -41,4 +42,8 @@ Happy coding! 💡✨
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/TanmayZade/LeetCode/tree/master/0074-search-a-2d-matrix) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/TanmayZade/LeetCode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
