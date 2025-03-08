@@ -53,6 +53,7 @@ Happy coding! 💡✨
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/TanmayZade/LeetCode/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/TanmayZade/LeetCode/tree/master/0206-reverse-linked-list) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -78,5 +79,6 @@ Happy coding! 💡✨
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/TanmayZade/LeetCode/tree/master/0206-reverse-linked-list) |
 | [1765-merge-in-between-linked-lists](https://github.com/TanmayZade/LeetCode/tree/master/1765-merge-in-between-linked-lists) |
 <!---LeetCode Topics End-->
