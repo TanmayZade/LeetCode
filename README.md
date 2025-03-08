@@ -37,6 +37,7 @@ Happy coding! 💡✨
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/TanmayZade/LeetCode/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/TanmayZade/LeetCode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/TanmayZade/LeetCode/tree/master/0062-unique-paths) |
 | [3227-find-missing-and-repeated-values](https://github.com/TanmayZade/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
@@ -52,6 +53,7 @@ Happy coding! 💡✨
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/TanmayZade/LeetCode/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/TanmayZade/LeetCode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/TanmayZade/LeetCode/tree/master/0206-reverse-linked-list) |
 ## Divide and Conquer
@@ -79,6 +81,7 @@ Happy coding! 💡✨
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/TanmayZade/LeetCode/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/TanmayZade/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/TanmayZade/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [1765-merge-in-between-linked-lists](https://github.com/TanmayZade/LeetCode/tree/master/1765-merge-in-between-linked-lists) |
