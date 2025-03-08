@@ -80,5 +80,10 @@ Happy coding! 💡✨
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/TanmayZade/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0908-middle-of-the-linked-list](https://github.com/TanmayZade/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [1765-merge-in-between-linked-lists](https://github.com/TanmayZade/LeetCode/tree/master/1765-merge-in-between-linked-lists) |
+## Two Pointers
+|  |
+| ------- |
+| [0908-middle-of-the-linked-list](https://github.com/TanmayZade/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
