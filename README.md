@@ -26,6 +26,7 @@ Happy coding! 💡✨
 | [0074-search-a-2d-matrix](https://github.com/TanmayZade/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0169-majority-element](https://github.com/TanmayZade/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/TanmayZade/LeetCode/tree/master/0229-majority-element-ii) |
+| [0485-max-consecutive-ones](https://github.com/TanmayZade/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [3227-find-missing-and-repeated-values](https://github.com/TanmayZade/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
