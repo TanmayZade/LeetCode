@@ -74,6 +74,7 @@ Happy coding! 💡✨
 | [0169-majority-element](https://github.com/TanmayZade/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/TanmayZade/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/TanmayZade/LeetCode/tree/master/0229-majority-element-ii) |
+| [0295-find-median-from-data-stream](https://github.com/TanmayZade/LeetCode/tree/master/0295-find-median-from-data-stream) |
 ## Counting
 |  |
 | ------- |
@@ -107,6 +108,7 @@ Happy coding! 💡✨
 | [0026-remove-duplicates-from-sorted-array](https://github.com/TanmayZade/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/TanmayZade/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/TanmayZade/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0295-find-median-from-data-stream](https://github.com/TanmayZade/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0908-middle-of-the-linked-list](https://github.com/TanmayZade/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 ## Stack
 |  |
@@ -120,8 +122,17 @@ Happy coding! 💡✨
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/TanmayZade/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/TanmayZade/LeetCode/tree/master/0295-find-median-from-data-stream) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/TanmayZade/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+## Design
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/TanmayZade/LeetCode/tree/master/0295-find-median-from-data-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/TanmayZade/LeetCode/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
