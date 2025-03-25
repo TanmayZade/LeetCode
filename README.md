@@ -27,6 +27,7 @@ Happy coding! 💡✨
 | [0042-trapping-rain-water](https://github.com/TanmayZade/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0074-search-a-2d-matrix](https://github.com/TanmayZade/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0169-majority-element](https://github.com/TanmayZade/LeetCode/tree/master/0169-majority-element) |
+| [0200-number-of-islands](https://github.com/TanmayZade/LeetCode/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/TanmayZade/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/TanmayZade/LeetCode/tree/master/0229-majority-element-ii) |
 | [0485-max-consecutive-ones](https://github.com/TanmayZade/LeetCode/tree/master/0485-max-consecutive-ones) |
@@ -53,6 +54,7 @@ Happy coding! 💡✨
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/TanmayZade/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0200-number-of-islands](https://github.com/TanmayZade/LeetCode/tree/master/0200-number-of-islands) |
 | [3227-find-missing-and-repeated-values](https://github.com/TanmayZade/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## Binary Search
 |  |
@@ -154,14 +156,17 @@ Happy coding! 💡✨
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/TanmayZade/LeetCode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/TanmayZade/LeetCode/tree/master/0547-number-of-provinces) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/TanmayZade/LeetCode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/TanmayZade/LeetCode/tree/master/0547-number-of-provinces) |
 ## Union Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/TanmayZade/LeetCode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/TanmayZade/LeetCode/tree/master/0547-number-of-provinces) |
 ## Graph
 |  |
