@@ -165,6 +165,7 @@ Happy coding! 💡✨
 | ------- |
 | [0130-surrounded-regions](https://github.com/TanmayZade/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/TanmayZade/LeetCode/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/TanmayZade/LeetCode/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/TanmayZade/LeetCode/tree/master/0547-number-of-provinces) |
 | [1073-number-of-enclaves](https://github.com/TanmayZade/LeetCode/tree/master/1073-number-of-enclaves) |
 ## Breadth-First Search
@@ -172,6 +173,7 @@ Happy coding! 💡✨
 | ------- |
 | [0130-surrounded-regions](https://github.com/TanmayZade/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/TanmayZade/LeetCode/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/TanmayZade/LeetCode/tree/master/0207-course-schedule) |
 | [0542-01-matrix](https://github.com/TanmayZade/LeetCode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/TanmayZade/LeetCode/tree/master/0547-number-of-provinces) |
 | [1073-number-of-enclaves](https://github.com/TanmayZade/LeetCode/tree/master/1073-number-of-enclaves) |
@@ -185,5 +187,10 @@ Happy coding! 💡✨
 ## Graph
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/TanmayZade/LeetCode/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/TanmayZade/LeetCode/tree/master/0547-number-of-provinces) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/TanmayZade/LeetCode/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
