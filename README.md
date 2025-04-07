@@ -168,6 +168,7 @@ Happy coding! 💡✨
 | [0207-course-schedule](https://github.com/TanmayZade/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/TanmayZade/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/TanmayZade/LeetCode/tree/master/0547-number-of-provinces) |
+| [0820-find-eventual-safe-states](https://github.com/TanmayZade/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [1073-number-of-enclaves](https://github.com/TanmayZade/LeetCode/tree/master/1073-number-of-enclaves) |
 ## Breadth-First Search
 |  |
@@ -178,6 +179,7 @@ Happy coding! 💡✨
 | [0210-course-schedule-ii](https://github.com/TanmayZade/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0542-01-matrix](https://github.com/TanmayZade/LeetCode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/TanmayZade/LeetCode/tree/master/0547-number-of-provinces) |
+| [0820-find-eventual-safe-states](https://github.com/TanmayZade/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [1073-number-of-enclaves](https://github.com/TanmayZade/LeetCode/tree/master/1073-number-of-enclaves) |
 ## Union Find
 |  |
@@ -192,9 +194,11 @@ Happy coding! 💡✨
 | [0207-course-schedule](https://github.com/TanmayZade/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/TanmayZade/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/TanmayZade/LeetCode/tree/master/0547-number-of-provinces) |
+| [0820-find-eventual-safe-states](https://github.com/TanmayZade/LeetCode/tree/master/0820-find-eventual-safe-states) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/TanmayZade/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/TanmayZade/LeetCode/tree/master/0210-course-schedule-ii) |
+| [0820-find-eventual-safe-states](https://github.com/TanmayZade/LeetCode/tree/master/0820-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
