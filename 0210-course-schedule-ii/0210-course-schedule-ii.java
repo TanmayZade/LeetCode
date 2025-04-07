@@ -6,7 +6,7 @@ class Solution {
         int n = prerequisites.length;
 
         for(int i = 0;i < n;i++){
-            adj.get(prerequisites[i][0]).add(prerequisites[i][1]);
+            adj.get(prerequisites[i][1]).add(prerequisites[i][0]);
         }
 
         int inDegree[] = new int[V];
@@ -34,7 +34,7 @@ class Solution {
         }
         int[] ans = new int[topo.size()];
         for(int i = 0;i < topo.size();i++)
-            ans[i] = topo.get(topo.size() - i - 1);
+            ans[i] = topo.get(i );
 
         if(topo.size() == V) return ans;
         return new int[0];
