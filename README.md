@@ -36,6 +36,7 @@ Link to my Profile: https://leetcode.com/u/_tanmay_zade_/
 | [0540-single-element-in-a-sorted-array](https://github.com/TanmayZade/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/TanmayZade/LeetCode/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/TanmayZade/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0792-binary-search](https://github.com/TanmayZade/LeetCode/tree/master/0792-binary-search) |
 | [1073-number-of-enclaves](https://github.com/TanmayZade/LeetCode/tree/master/1073-number-of-enclaves) |
 | [3227-find-missing-and-repeated-values](https://github.com/TanmayZade/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## Hash Table
@@ -70,6 +71,7 @@ Link to my Profile: https://leetcode.com/u/_tanmay_zade_/
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/TanmayZade/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0540-single-element-in-a-sorted-array](https://github.com/TanmayZade/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0792-binary-search](https://github.com/TanmayZade/LeetCode/tree/master/0792-binary-search) |
 ## Recursion
 |  |
 | ------- |
