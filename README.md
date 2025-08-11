@@ -42,6 +42,7 @@ Link to my Profile: https://leetcode.com/u/_tanmay_zade_/
 | [1073-number-of-enclaves](https://github.com/TanmayZade/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/TanmayZade/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1325-path-with-maximum-probability](https://github.com/TanmayZade/LeetCode/tree/master/1325-path-with-maximum-probability) |
+| [1753-path-with-minimum-effort](https://github.com/TanmayZade/LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [3227-find-missing-and-repeated-values](https://github.com/TanmayZade/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
@@ -73,6 +74,7 @@ Link to my Profile: https://leetcode.com/u/_tanmay_zade_/
 | [0542-01-matrix](https://github.com/TanmayZade/LeetCode/tree/master/0542-01-matrix) |
 | [1073-number-of-enclaves](https://github.com/TanmayZade/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/TanmayZade/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1753-path-with-minimum-effort](https://github.com/TanmayZade/LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [3227-find-missing-and-repeated-values](https://github.com/TanmayZade/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## Binary Search
 |  |
@@ -80,6 +82,7 @@ Link to my Profile: https://leetcode.com/u/_tanmay_zade_/
 | [0074-search-a-2d-matrix](https://github.com/TanmayZade/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0540-single-element-in-a-sorted-array](https://github.com/TanmayZade/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/TanmayZade/LeetCode/tree/master/0792-binary-search) |
+| [1753-path-with-minimum-effort](https://github.com/TanmayZade/LeetCode/tree/master/1753-path-with-minimum-effort) |
 ## Recursion
 |  |
 | ------- |
@@ -155,6 +158,7 @@ Link to my Profile: https://leetcode.com/u/_tanmay_zade_/
 | [0215-kth-largest-element-in-an-array](https://github.com/TanmayZade/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/TanmayZade/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [1325-path-with-maximum-probability](https://github.com/TanmayZade/LeetCode/tree/master/1325-path-with-maximum-probability) |
+| [1753-path-with-minimum-effort](https://github.com/TanmayZade/LeetCode/tree/master/1753-path-with-minimum-effort) |
 ## Quickselect
 |  |
 | ------- |
@@ -194,6 +198,7 @@ Link to my Profile: https://leetcode.com/u/_tanmay_zade_/
 | [0547-number-of-provinces](https://github.com/TanmayZade/LeetCode/tree/master/0547-number-of-provinces) |
 | [0820-find-eventual-safe-states](https://github.com/TanmayZade/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [1073-number-of-enclaves](https://github.com/TanmayZade/LeetCode/tree/master/1073-number-of-enclaves) |
+| [1753-path-with-minimum-effort](https://github.com/TanmayZade/LeetCode/tree/master/1753-path-with-minimum-effort) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -207,6 +212,7 @@ Link to my Profile: https://leetcode.com/u/_tanmay_zade_/
 | [0820-find-eventual-safe-states](https://github.com/TanmayZade/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [1073-number-of-enclaves](https://github.com/TanmayZade/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/TanmayZade/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1753-path-with-minimum-effort](https://github.com/TanmayZade/LeetCode/tree/master/1753-path-with-minimum-effort) |
 ## Union Find
 |  |
 | ------- |
@@ -214,6 +220,7 @@ Link to my Profile: https://leetcode.com/u/_tanmay_zade_/
 | [0200-number-of-islands](https://github.com/TanmayZade/LeetCode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/TanmayZade/LeetCode/tree/master/0547-number-of-provinces) |
 | [1073-number-of-enclaves](https://github.com/TanmayZade/LeetCode/tree/master/1073-number-of-enclaves) |
+| [1753-path-with-minimum-effort](https://github.com/TanmayZade/LeetCode/tree/master/1753-path-with-minimum-effort) |
 ## Graph
 |  |
 | ------- |
