@@ -13,18 +13,17 @@ for (int i = 0; i < n; i++) {
         }
 
         for(int via = 0;via < n;via++){
+    
             for(int i = 0;i < n;i++){
+                if(cost[i][via] == INF) continue;
                 for(int j = 0;j < n;j++){
-
-                    if(cost[i][via] != INF && cost[via][j] != INF){
+                    if(cost[via][j] == INF)continue;                    
                     long sum = (long) cost[i][via] + cost[via][j];
-                        if(sum < cost[i][j]) cost[i][j] = (int)sum;
-                    }
-                        
+                        if(sum < cost[i][j]) cost[i][j] = (int)sum;                       
                 }
             }
         }
-        int minTh = Integer.MAX_VALUE;
+        int minTh = n+1;
         int node = -1;
         for(int i = 0;i < n;i++){
             int LessThanT = 0;
@@ -37,7 +36,6 @@ for (int i = 0; i < n; i++) {
                 minTh = LessThanT;
             }
         }
-        return node
-        ;
+        return node;
     }
 }
