@@ -38,6 +38,7 @@ Link to my Profile: https://leetcode.com/u/_tanmay_zade_/
 | [0540-single-element-in-a-sorted-array](https://github.com/TanmayZade/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/TanmayZade/LeetCode/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/TanmayZade/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0721-accounts-merge](https://github.com/TanmayZade/LeetCode/tree/master/0721-accounts-merge) |
 | [0792-binary-search](https://github.com/TanmayZade/LeetCode/tree/master/0792-binary-search) |
 | [1073-number-of-enclaves](https://github.com/TanmayZade/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/TanmayZade/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -56,6 +57,7 @@ Link to my Profile: https://leetcode.com/u/_tanmay_zade_/
 | [0242-valid-anagram](https://github.com/TanmayZade/LeetCode/tree/master/0242-valid-anagram) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/TanmayZade/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/TanmayZade/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0721-accounts-merge](https://github.com/TanmayZade/LeetCode/tree/master/0721-accounts-merge) |
 | [3227-find-missing-and-repeated-values](https://github.com/TanmayZade/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## Math
 |  |
@@ -105,6 +107,7 @@ Link to my Profile: https://leetcode.com/u/_tanmay_zade_/
 | [0229-majority-element-ii](https://github.com/TanmayZade/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/TanmayZade/LeetCode/tree/master/0242-valid-anagram) |
 | [0295-find-median-from-data-stream](https://github.com/TanmayZade/LeetCode/tree/master/0295-find-median-from-data-stream) |
+| [0721-accounts-merge](https://github.com/TanmayZade/LeetCode/tree/master/0721-accounts-merge) |
 ## Counting
 |  |
 | ------- |
@@ -183,6 +186,7 @@ Link to my Profile: https://leetcode.com/u/_tanmay_zade_/
 | [0242-valid-anagram](https://github.com/TanmayZade/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/TanmayZade/LeetCode/tree/master/0344-reverse-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/TanmayZade/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0721-accounts-merge](https://github.com/TanmayZade/LeetCode/tree/master/0721-accounts-merge) |
 ## Trie
 |  |
 | ------- |
@@ -200,6 +204,7 @@ Link to my Profile: https://leetcode.com/u/_tanmay_zade_/
 | [0210-course-schedule-ii](https://github.com/TanmayZade/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/TanmayZade/LeetCode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/TanmayZade/LeetCode/tree/master/0684-redundant-connection) |
+| [0721-accounts-merge](https://github.com/TanmayZade/LeetCode/tree/master/0721-accounts-merge) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/TanmayZade/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/TanmayZade/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [1073-number-of-enclaves](https://github.com/TanmayZade/LeetCode/tree/master/1073-number-of-enclaves) |
@@ -215,6 +220,7 @@ Link to my Profile: https://leetcode.com/u/_tanmay_zade_/
 | [0542-01-matrix](https://github.com/TanmayZade/LeetCode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/TanmayZade/LeetCode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/TanmayZade/LeetCode/tree/master/0684-redundant-connection) |
+| [0721-accounts-merge](https://github.com/TanmayZade/LeetCode/tree/master/0721-accounts-merge) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/TanmayZade/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/TanmayZade/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [1073-number-of-enclaves](https://github.com/TanmayZade/LeetCode/tree/master/1073-number-of-enclaves) |
@@ -227,6 +233,7 @@ Link to my Profile: https://leetcode.com/u/_tanmay_zade_/
 | [0200-number-of-islands](https://github.com/TanmayZade/LeetCode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/TanmayZade/LeetCode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/TanmayZade/LeetCode/tree/master/0684-redundant-connection) |
+| [0721-accounts-merge](https://github.com/TanmayZade/LeetCode/tree/master/0721-accounts-merge) |
 | [1073-number-of-enclaves](https://github.com/TanmayZade/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1753-path-with-minimum-effort](https://github.com/TanmayZade/LeetCode/tree/master/1753-path-with-minimum-effort) |
 ## Graph
