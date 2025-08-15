@@ -54,6 +54,7 @@ Link to my Profile: https://leetcode.com/u/_tanmay_zade_/
 | [0001-two-sum](https://github.com/TanmayZade/LeetCode/tree/master/0001-two-sum) |
 | [0127-word-ladder](https://github.com/TanmayZade/LeetCode/tree/master/0127-word-ladder) |
 | [0141-linked-list-cycle](https://github.com/TanmayZade/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/TanmayZade/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/TanmayZade/LeetCode/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/TanmayZade/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0229-majority-element-ii](https://github.com/TanmayZade/LeetCode/tree/master/0229-majority-element-ii) |
@@ -142,6 +143,7 @@ Link to my Profile: https://leetcode.com/u/_tanmay_zade_/
 | [0021-merge-two-sorted-lists](https://github.com/TanmayZade/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/TanmayZade/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0141-linked-list-cycle](https://github.com/TanmayZade/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/TanmayZade/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/TanmayZade/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/TanmayZade/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/TanmayZade/LeetCode/tree/master/0908-middle-of-the-linked-list) |
@@ -153,6 +155,7 @@ Link to my Profile: https://leetcode.com/u/_tanmay_zade_/
 | [0026-remove-duplicates-from-sorted-array](https://github.com/TanmayZade/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/TanmayZade/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/TanmayZade/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/TanmayZade/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0295-find-median-from-data-stream](https://github.com/TanmayZade/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/TanmayZade/LeetCode/tree/master/0344-reverse-string) |
 | [0908-middle-of-the-linked-list](https://github.com/TanmayZade/LeetCode/tree/master/0908-middle-of-the-linked-list) |
