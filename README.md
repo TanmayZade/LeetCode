@@ -192,6 +192,7 @@ Link to my Profile: https://leetcode.com/u/_tanmay_zade_/
 | [0344-reverse-string](https://github.com/TanmayZade/LeetCode/tree/master/0344-reverse-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/TanmayZade/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0721-accounts-merge](https://github.com/TanmayZade/LeetCode/tree/master/0721-accounts-merge) |
+| [0812-rotate-string](https://github.com/TanmayZade/LeetCode/tree/master/0812-rotate-string) |
 ## Trie
 |  |
 | ------- |
@@ -287,4 +288,8 @@ Link to my Profile: https://leetcode.com/u/_tanmay_zade_/
 |  |
 | ------- |
 | [2206-detonate-the-maximum-bombs](https://github.com/TanmayZade/LeetCode/tree/master/2206-detonate-the-maximum-bombs) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/TanmayZade/LeetCode/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
