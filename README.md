@@ -45,6 +45,7 @@ Link to my Profile: https://leetcode.com/u/_tanmay_zade_/
 | [1171-shortest-path-in-binary-matrix](https://github.com/TanmayZade/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1325-path-with-maximum-probability](https://github.com/TanmayZade/LeetCode/tree/master/1325-path-with-maximum-probability) |
 | [1753-path-with-minimum-effort](https://github.com/TanmayZade/LeetCode/tree/master/1753-path-with-minimum-effort) |
+| [2206-detonate-the-maximum-bombs](https://github.com/TanmayZade/LeetCode/tree/master/2206-detonate-the-maximum-bombs) |
 | [3227-find-missing-and-repeated-values](https://github.com/TanmayZade/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
@@ -68,6 +69,7 @@ Link to my Profile: https://leetcode.com/u/_tanmay_zade_/
 | [0007-reverse-integer](https://github.com/TanmayZade/LeetCode/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/TanmayZade/LeetCode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/TanmayZade/LeetCode/tree/master/0062-unique-paths) |
+| [2206-detonate-the-maximum-bombs](https://github.com/TanmayZade/LeetCode/tree/master/2206-detonate-the-maximum-bombs) |
 | [3227-find-missing-and-repeated-values](https://github.com/TanmayZade/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## Matrix
 |  |
@@ -215,6 +217,7 @@ Link to my Profile: https://leetcode.com/u/_tanmay_zade_/
 | [1073-number-of-enclaves](https://github.com/TanmayZade/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1300-critical-connections-in-a-network](https://github.com/TanmayZade/LeetCode/tree/master/1300-critical-connections-in-a-network) |
 | [1753-path-with-minimum-effort](https://github.com/TanmayZade/LeetCode/tree/master/1753-path-with-minimum-effort) |
+| [2206-detonate-the-maximum-bombs](https://github.com/TanmayZade/LeetCode/tree/master/2206-detonate-the-maximum-bombs) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -233,6 +236,7 @@ Link to my Profile: https://leetcode.com/u/_tanmay_zade_/
 | [1073-number-of-enclaves](https://github.com/TanmayZade/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/TanmayZade/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1753-path-with-minimum-effort](https://github.com/TanmayZade/LeetCode/tree/master/1753-path-with-minimum-effort) |
+| [2206-detonate-the-maximum-bombs](https://github.com/TanmayZade/LeetCode/tree/master/2206-detonate-the-maximum-bombs) |
 ## Union Find
 |  |
 | ------- |
@@ -258,6 +262,7 @@ Link to my Profile: https://leetcode.com/u/_tanmay_zade_/
 | [1300-critical-connections-in-a-network](https://github.com/TanmayZade/LeetCode/tree/master/1300-critical-connections-in-a-network) |
 | [1325-path-with-maximum-probability](https://github.com/TanmayZade/LeetCode/tree/master/1325-path-with-maximum-probability) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/TanmayZade/LeetCode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [2206-detonate-the-maximum-bombs](https://github.com/TanmayZade/LeetCode/tree/master/2206-detonate-the-maximum-bombs) |
 ## Topological Sort
 |  |
 | ------- |
@@ -278,4 +283,8 @@ Link to my Profile: https://leetcode.com/u/_tanmay_zade_/
 |  |
 | ------- |
 | [1300-critical-connections-in-a-network](https://github.com/TanmayZade/LeetCode/tree/master/1300-critical-connections-in-a-network) |
+## Geometry
+|  |
+| ------- |
+| [2206-detonate-the-maximum-bombs](https://github.com/TanmayZade/LeetCode/tree/master/2206-detonate-the-maximum-bombs) |
 <!---LeetCode Topics End-->
