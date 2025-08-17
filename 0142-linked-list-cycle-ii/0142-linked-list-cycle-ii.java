@@ -9,7 +9,8 @@
  *     }
  * }
  */
-public class Solution {
+
+ public class Solution {
     public ListNode detectCycle(ListNode head) {
         ListNode slow = head;
         ListNode fast = head;
@@ -34,3 +35,20 @@ public class Solution {
         return slow;
     }
 }
+// public class Solution {
+//     public ListNode detectCycle(ListNode head) {
+//         ListNode marker = new ListNode(-1);
+
+//         ListNode curr = head;
+
+//         while(curr != null){
+//             if(curr.next == marker)
+//                 return curr;
+            
+//             ListNode nextNode = curr.next;
+//             curr.next = marker;
+//             curr = nextNode;
+//         }
+//         return null;
+//     }
+// }
