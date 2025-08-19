@@ -71,6 +71,7 @@ Link to my Profile: https://leetcode.com/u/_tanmay_zade_/
 | [0007-reverse-integer](https://github.com/TanmayZade/LeetCode/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/TanmayZade/LeetCode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/TanmayZade/LeetCode/tree/master/0062-unique-paths) |
+| [0795-k-th-symbol-in-grammar](https://github.com/TanmayZade/LeetCode/tree/master/0795-k-th-symbol-in-grammar) |
 | [1013-fibonacci-number](https://github.com/TanmayZade/LeetCode/tree/master/1013-fibonacci-number) |
 | [2206-detonate-the-maximum-bombs](https://github.com/TanmayZade/LeetCode/tree/master/2206-detonate-the-maximum-bombs) |
 | [3227-find-missing-and-repeated-values](https://github.com/TanmayZade/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
@@ -102,6 +103,7 @@ Link to my Profile: https://leetcode.com/u/_tanmay_zade_/
 | [0025-reverse-nodes-in-k-group](https://github.com/TanmayZade/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/TanmayZade/LeetCode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/TanmayZade/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0795-k-th-symbol-in-grammar](https://github.com/TanmayZade/LeetCode/tree/master/0795-k-th-symbol-in-grammar) |
 | [1013-fibonacci-number](https://github.com/TanmayZade/LeetCode/tree/master/1013-fibonacci-number) |
 ## Divide and Conquer
 |  |
@@ -304,4 +306,8 @@ Link to my Profile: https://leetcode.com/u/_tanmay_zade_/
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/TanmayZade/LeetCode/tree/master/1013-fibonacci-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0795-k-th-symbol-in-grammar](https://github.com/TanmayZade/LeetCode/tree/master/0795-k-th-symbol-in-grammar) |
 <!---LeetCode Topics End-->
