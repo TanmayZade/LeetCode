@@ -222,6 +222,7 @@ Link to my Profile: https://leetcode.com/u/_tanmay_zade_/
 | [0684-redundant-connection](https://github.com/TanmayZade/LeetCode/tree/master/0684-redundant-connection) |
 | [0721-accounts-merge](https://github.com/TanmayZade/LeetCode/tree/master/0721-accounts-merge) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/TanmayZade/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0813-all-paths-from-source-to-target](https://github.com/TanmayZade/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/TanmayZade/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/TanmayZade/LeetCode/tree/master/0854-making-a-large-island) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/TanmayZade/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
@@ -242,6 +243,7 @@ Link to my Profile: https://leetcode.com/u/_tanmay_zade_/
 | [0684-redundant-connection](https://github.com/TanmayZade/LeetCode/tree/master/0684-redundant-connection) |
 | [0721-accounts-merge](https://github.com/TanmayZade/LeetCode/tree/master/0721-accounts-merge) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/TanmayZade/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0813-all-paths-from-source-to-target](https://github.com/TanmayZade/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/TanmayZade/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/TanmayZade/LeetCode/tree/master/0854-making-a-large-island) |
 | [1073-number-of-enclaves](https://github.com/TanmayZade/LeetCode/tree/master/1073-number-of-enclaves) |
@@ -268,6 +270,7 @@ Link to my Profile: https://leetcode.com/u/_tanmay_zade_/
 | [0547-number-of-provinces](https://github.com/TanmayZade/LeetCode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/TanmayZade/LeetCode/tree/master/0684-redundant-connection) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/TanmayZade/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0813-all-paths-from-source-to-target](https://github.com/TanmayZade/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/TanmayZade/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/TanmayZade/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1300-critical-connections-in-a-network](https://github.com/TanmayZade/LeetCode/tree/master/1300-critical-connections-in-a-network) |
@@ -310,4 +313,8 @@ Link to my Profile: https://leetcode.com/u/_tanmay_zade_/
 |  |
 | ------- |
 | [0795-k-th-symbol-in-grammar](https://github.com/TanmayZade/LeetCode/tree/master/0795-k-th-symbol-in-grammar) |
+## Backtracking
+|  |
+| ------- |
+| [0813-all-paths-from-source-to-target](https://github.com/TanmayZade/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
 <!---LeetCode Topics End-->
