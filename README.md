@@ -42,6 +42,7 @@ Link to my Profile: https://leetcode.com/u/_tanmay_zade_/
 | [0792-binary-search](https://github.com/TanmayZade/LeetCode/tree/master/0792-binary-search) |
 | [0854-making-a-large-island](https://github.com/TanmayZade/LeetCode/tree/master/0854-making-a-large-island) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/TanmayZade/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
+| [1039-find-the-town-judge](https://github.com/TanmayZade/LeetCode/tree/master/1039-find-the-town-judge) |
 | [1073-number-of-enclaves](https://github.com/TanmayZade/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/TanmayZade/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1325-path-with-maximum-probability](https://github.com/TanmayZade/LeetCode/tree/master/1325-path-with-maximum-probability) |
@@ -63,6 +64,7 @@ Link to my Profile: https://leetcode.com/u/_tanmay_zade_/
 | [0560-subarray-sum-equals-k](https://github.com/TanmayZade/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0721-accounts-merge](https://github.com/TanmayZade/LeetCode/tree/master/0721-accounts-merge) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/TanmayZade/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1039-find-the-town-judge](https://github.com/TanmayZade/LeetCode/tree/master/1039-find-the-town-judge) |
 | [3227-find-missing-and-repeated-values](https://github.com/TanmayZade/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## Math
 |  |
@@ -273,6 +275,7 @@ Link to my Profile: https://leetcode.com/u/_tanmay_zade_/
 | [0813-all-paths-from-source-to-target](https://github.com/TanmayZade/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/TanmayZade/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/TanmayZade/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1039-find-the-town-judge](https://github.com/TanmayZade/LeetCode/tree/master/1039-find-the-town-judge) |
 | [1300-critical-connections-in-a-network](https://github.com/TanmayZade/LeetCode/tree/master/1300-critical-connections-in-a-network) |
 | [1325-path-with-maximum-probability](https://github.com/TanmayZade/LeetCode/tree/master/1325-path-with-maximum-probability) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/TanmayZade/LeetCode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
