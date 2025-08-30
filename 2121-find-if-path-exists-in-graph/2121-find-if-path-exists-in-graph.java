@@ -1,26 +1,21 @@
 class Solution {
-    public boolean validPath(int n, int[][] edges, int src, int destination) {
-        ArrayList<ArrayList<Integer>> adj = new ArrayList<>();
-        for(int i = 0;i < n;i++) adj.add(new ArrayList<>());
-        for(int i = 0; i < edges.length;i++){
-            adj.get(edges[i][0]).add(edges[i][1]);
-            adj.get(edges[i][1]).add(edges[i][0]);
-        }
-        boolean vis[] = new boolean[n];
-        Queue<Integer> q = new LinkedList<>();
-        q.add(src);
-        vis[src] = true;
-        while(!q.isEmpty()){
-            int node = q.poll();
-            if(node == destination) return true;
-            for(int it : adj.get(node)){
-                if(!vis[it]){
-                    q.add(it);
-                    vis[it] = true;
-                }
-            }
+    private int parent[];
+    private int findParent(int x){
+        if(x == parent[x]) return x;
+        return parent[x] = findParent(parent[x]);
+    }
 
-        }
-        return false;
+    private void union(int x, int y){
+        int px = findParent(x);
+        int py = findParent(y);
+        if(px != py)
+            parent[px] = parent[py];
+    }
+    public boolean validPath(int n, int[][] edges, int source, int destination) {
+        parent = new int[n];
+        for(int i = 0;i < n;i++) parent[i] = i;
+        for(var e : edges) union(e[0],e[1]);
+
+        return findParent(source) == findParent(destination);
     }
 }
