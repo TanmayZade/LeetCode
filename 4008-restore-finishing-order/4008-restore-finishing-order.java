@@ -2,7 +2,7 @@ class Solution {
     public int[] recoverOrder(int[] order, int[] friends) {
         List<Integer> li = new ArrayList<>();
 
-        Set<Integer> st = new HashSet<>();
+        HashSet<Integer> st = new HashSet<>();
 
         for(int i = 0;i < friends.length;i++) st.add(friends[i]);
 
