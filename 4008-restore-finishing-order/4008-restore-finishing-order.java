@@ -9,7 +9,6 @@ class Solution {
         for(int i = 0;i < order.length;i++){
             if(st.contains(order[i])){
                 li.add(order[i]);
-                st.remove(order[i]);
             }
         }
 
