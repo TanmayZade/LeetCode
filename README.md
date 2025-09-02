@@ -198,6 +198,7 @@ Link to my Profile: https://leetcode.com/u/_tanmay_zade_/
 ## String
 |  |
 | ------- |
+| [0093-restore-ip-addresses](https://github.com/TanmayZade/LeetCode/tree/master/0093-restore-ip-addresses) |
 | [0127-word-ladder](https://github.com/TanmayZade/LeetCode/tree/master/0127-word-ladder) |
 | [0208-implement-trie-prefix-tree](https://github.com/TanmayZade/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/TanmayZade/LeetCode/tree/master/0242-valid-anagram) |
@@ -326,5 +327,6 @@ Link to my Profile: https://leetcode.com/u/_tanmay_zade_/
 ## Backtracking
 |  |
 | ------- |
+| [0093-restore-ip-addresses](https://github.com/TanmayZade/LeetCode/tree/master/0093-restore-ip-addresses) |
 | [0813-all-paths-from-source-to-target](https://github.com/TanmayZade/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
 <!---LeetCode Topics End-->
