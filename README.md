@@ -30,6 +30,7 @@ Link to my Profile: https://leetcode.com/u/_tanmay_zade_/
 | [0074-search-a-2d-matrix](https://github.com/TanmayZade/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/TanmayZade/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/TanmayZade/LeetCode/tree/master/0130-surrounded-regions) |
+| [0164-maximum-gap](https://github.com/TanmayZade/LeetCode/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/TanmayZade/LeetCode/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/TanmayZade/LeetCode/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/TanmayZade/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -116,6 +117,7 @@ Link to my Profile: https://leetcode.com/u/_tanmay_zade_/
 ## Sorting
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/TanmayZade/LeetCode/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/TanmayZade/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/TanmayZade/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/TanmayZade/LeetCode/tree/master/0229-majority-element-ii) |
@@ -329,4 +331,12 @@ Link to my Profile: https://leetcode.com/u/_tanmay_zade_/
 | ------- |
 | [0093-restore-ip-addresses](https://github.com/TanmayZade/LeetCode/tree/master/0093-restore-ip-addresses) |
 | [0813-all-paths-from-source-to-target](https://github.com/TanmayZade/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
+## Bucket Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/TanmayZade/LeetCode/tree/master/0164-maximum-gap) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/TanmayZade/LeetCode/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
