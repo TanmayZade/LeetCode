@@ -69,6 +69,7 @@ Link to my Profile: https://leetcode.com/u/_tanmay_zade_/
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/TanmayZade/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1039-find-the-town-judge](https://github.com/TanmayZade/LeetCode/tree/master/1039-find-the-town-judge) |
 | [3227-find-missing-and-repeated-values](https://github.com/TanmayZade/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
+| [3678-design-task-manager](https://github.com/TanmayZade/LeetCode/tree/master/3678-design-task-manager) |
 ## Math
 |  |
 | ------- |
@@ -189,6 +190,7 @@ Link to my Profile: https://leetcode.com/u/_tanmay_zade_/
 | [0803-cheapest-flights-within-k-stops](https://github.com/TanmayZade/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1325-path-with-maximum-probability](https://github.com/TanmayZade/LeetCode/tree/master/1325-path-with-maximum-probability) |
 | [1753-path-with-minimum-effort](https://github.com/TanmayZade/LeetCode/tree/master/1753-path-with-minimum-effort) |
+| [3678-design-task-manager](https://github.com/TanmayZade/LeetCode/tree/master/3678-design-task-manager) |
 ## Quickselect
 |  |
 | ------- |
@@ -198,6 +200,7 @@ Link to my Profile: https://leetcode.com/u/_tanmay_zade_/
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/TanmayZade/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0295-find-median-from-data-stream](https://github.com/TanmayZade/LeetCode/tree/master/0295-find-median-from-data-stream) |
+| [3678-design-task-manager](https://github.com/TanmayZade/LeetCode/tree/master/3678-design-task-manager) |
 ## Data Stream
 |  |
 | ------- |
@@ -345,4 +348,8 @@ Link to my Profile: https://leetcode.com/u/_tanmay_zade_/
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/TanmayZade/LeetCode/tree/master/0164-maximum-gap) |
+## Ordered Set
+|  |
+| ------- |
+| [3678-design-task-manager](https://github.com/TanmayZade/LeetCode/tree/master/3678-design-task-manager) |
 <!---LeetCode Topics End-->
