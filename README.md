@@ -51,6 +51,7 @@ Link to my Profile: https://leetcode.com/u/_tanmay_zade_/
 | [1753-path-with-minimum-effort](https://github.com/TanmayZade/LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [2206-detonate-the-maximum-bombs](https://github.com/TanmayZade/LeetCode/tree/master/2206-detonate-the-maximum-bombs) |
 | [3227-find-missing-and-repeated-values](https://github.com/TanmayZade/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
+| [3797-design-spreadsheet](https://github.com/TanmayZade/LeetCode/tree/master/3797-design-spreadsheet) |
 ## Hash Table
 |  |
 | ------- |
@@ -70,6 +71,7 @@ Link to my Profile: https://leetcode.com/u/_tanmay_zade_/
 | [1039-find-the-town-judge](https://github.com/TanmayZade/LeetCode/tree/master/1039-find-the-town-judge) |
 | [3227-find-missing-and-repeated-values](https://github.com/TanmayZade/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3678-design-task-manager](https://github.com/TanmayZade/LeetCode/tree/master/3678-design-task-manager) |
+| [3797-design-spreadsheet](https://github.com/TanmayZade/LeetCode/tree/master/3797-design-spreadsheet) |
 ## Math
 |  |
 | ------- |
@@ -94,6 +96,7 @@ Link to my Profile: https://leetcode.com/u/_tanmay_zade_/
 | [1171-shortest-path-in-binary-matrix](https://github.com/TanmayZade/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1753-path-with-minimum-effort](https://github.com/TanmayZade/LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [3227-find-missing-and-repeated-values](https://github.com/TanmayZade/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
+| [3797-design-spreadsheet](https://github.com/TanmayZade/LeetCode/tree/master/3797-design-spreadsheet) |
 ## Binary Search
 |  |
 | ------- |
@@ -201,6 +204,7 @@ Link to my Profile: https://leetcode.com/u/_tanmay_zade_/
 | [0208-implement-trie-prefix-tree](https://github.com/TanmayZade/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0295-find-median-from-data-stream](https://github.com/TanmayZade/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [3678-design-task-manager](https://github.com/TanmayZade/LeetCode/tree/master/3678-design-task-manager) |
+| [3797-design-spreadsheet](https://github.com/TanmayZade/LeetCode/tree/master/3797-design-spreadsheet) |
 ## Data Stream
 |  |
 | ------- |
@@ -216,6 +220,7 @@ Link to my Profile: https://leetcode.com/u/_tanmay_zade_/
 | [0438-find-all-anagrams-in-a-string](https://github.com/TanmayZade/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0721-accounts-merge](https://github.com/TanmayZade/LeetCode/tree/master/0721-accounts-merge) |
 | [0812-rotate-string](https://github.com/TanmayZade/LeetCode/tree/master/0812-rotate-string) |
+| [3797-design-spreadsheet](https://github.com/TanmayZade/LeetCode/tree/master/3797-design-spreadsheet) |
 ## Trie
 |  |
 | ------- |
