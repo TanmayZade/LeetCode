@@ -50,6 +50,7 @@ Link to my Profile: https://leetcode.com/u/_tanmay_zade_/
 | [1325-path-with-maximum-probability](https://github.com/TanmayZade/LeetCode/tree/master/1325-path-with-maximum-probability) |
 | [1753-path-with-minimum-effort](https://github.com/TanmayZade/LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [2206-detonate-the-maximum-bombs](https://github.com/TanmayZade/LeetCode/tree/master/2206-detonate-the-maximum-bombs) |
+| [2429-design-a-food-rating-system](https://github.com/TanmayZade/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [3227-find-missing-and-repeated-values](https://github.com/TanmayZade/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3797-design-spreadsheet](https://github.com/TanmayZade/LeetCode/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/TanmayZade/LeetCode/tree/master/3827-implement-router) |
@@ -70,6 +71,7 @@ Link to my Profile: https://leetcode.com/u/_tanmay_zade_/
 | [0721-accounts-merge](https://github.com/TanmayZade/LeetCode/tree/master/0721-accounts-merge) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/TanmayZade/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1039-find-the-town-judge](https://github.com/TanmayZade/LeetCode/tree/master/1039-find-the-town-judge) |
+| [2429-design-a-food-rating-system](https://github.com/TanmayZade/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [3227-find-missing-and-repeated-values](https://github.com/TanmayZade/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3678-design-task-manager](https://github.com/TanmayZade/LeetCode/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/TanmayZade/LeetCode/tree/master/3797-design-spreadsheet) |
@@ -196,6 +198,7 @@ Link to my Profile: https://leetcode.com/u/_tanmay_zade_/
 | [0803-cheapest-flights-within-k-stops](https://github.com/TanmayZade/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1325-path-with-maximum-probability](https://github.com/TanmayZade/LeetCode/tree/master/1325-path-with-maximum-probability) |
 | [1753-path-with-minimum-effort](https://github.com/TanmayZade/LeetCode/tree/master/1753-path-with-minimum-effort) |
+| [2429-design-a-food-rating-system](https://github.com/TanmayZade/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/TanmayZade/LeetCode/tree/master/3678-design-task-manager) |
 ## Quickselect
 |  |
@@ -206,6 +209,7 @@ Link to my Profile: https://leetcode.com/u/_tanmay_zade_/
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/TanmayZade/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0295-find-median-from-data-stream](https://github.com/TanmayZade/LeetCode/tree/master/0295-find-median-from-data-stream) |
+| [2429-design-a-food-rating-system](https://github.com/TanmayZade/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/TanmayZade/LeetCode/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/TanmayZade/LeetCode/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/TanmayZade/LeetCode/tree/master/3827-implement-router) |
@@ -224,6 +228,7 @@ Link to my Profile: https://leetcode.com/u/_tanmay_zade_/
 | [0438-find-all-anagrams-in-a-string](https://github.com/TanmayZade/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0721-accounts-merge](https://github.com/TanmayZade/LeetCode/tree/master/0721-accounts-merge) |
 | [0812-rotate-string](https://github.com/TanmayZade/LeetCode/tree/master/0812-rotate-string) |
+| [2429-design-a-food-rating-system](https://github.com/TanmayZade/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [3797-design-spreadsheet](https://github.com/TanmayZade/LeetCode/tree/master/3797-design-spreadsheet) |
 ## Trie
 |  |
@@ -360,6 +365,7 @@ Link to my Profile: https://leetcode.com/u/_tanmay_zade_/
 ## Ordered Set
 |  |
 | ------- |
+| [2429-design-a-food-rating-system](https://github.com/TanmayZade/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/TanmayZade/LeetCode/tree/master/3678-design-task-manager) |
 | [3827-implement-router](https://github.com/TanmayZade/LeetCode/tree/master/3827-implement-router) |
 ## Queue
