@@ -52,6 +52,7 @@ Link to my Profile: https://leetcode.com/u/_tanmay_zade_/
 | [2206-detonate-the-maximum-bombs](https://github.com/TanmayZade/LeetCode/tree/master/2206-detonate-the-maximum-bombs) |
 | [3227-find-missing-and-repeated-values](https://github.com/TanmayZade/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3797-design-spreadsheet](https://github.com/TanmayZade/LeetCode/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/TanmayZade/LeetCode/tree/master/3827-implement-router) |
 ## Hash Table
 |  |
 | ------- |
@@ -72,6 +73,7 @@ Link to my Profile: https://leetcode.com/u/_tanmay_zade_/
 | [3227-find-missing-and-repeated-values](https://github.com/TanmayZade/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3678-design-task-manager](https://github.com/TanmayZade/LeetCode/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/TanmayZade/LeetCode/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/TanmayZade/LeetCode/tree/master/3827-implement-router) |
 ## Math
 |  |
 | ------- |
@@ -106,6 +108,7 @@ Link to my Profile: https://leetcode.com/u/_tanmay_zade_/
 | [0792-binary-search](https://github.com/TanmayZade/LeetCode/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/TanmayZade/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1753-path-with-minimum-effort](https://github.com/TanmayZade/LeetCode/tree/master/1753-path-with-minimum-effort) |
+| [3827-implement-router](https://github.com/TanmayZade/LeetCode/tree/master/3827-implement-router) |
 ## Recursion
 |  |
 | ------- |
@@ -205,6 +208,7 @@ Link to my Profile: https://leetcode.com/u/_tanmay_zade_/
 | [0295-find-median-from-data-stream](https://github.com/TanmayZade/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [3678-design-task-manager](https://github.com/TanmayZade/LeetCode/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/TanmayZade/LeetCode/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/TanmayZade/LeetCode/tree/master/3827-implement-router) |
 ## Data Stream
 |  |
 | ------- |
@@ -357,4 +361,9 @@ Link to my Profile: https://leetcode.com/u/_tanmay_zade_/
 |  |
 | ------- |
 | [3678-design-task-manager](https://github.com/TanmayZade/LeetCode/tree/master/3678-design-task-manager) |
+| [3827-implement-router](https://github.com/TanmayZade/LeetCode/tree/master/3827-implement-router) |
+## Queue
+|  |
+| ------- |
+| [3827-implement-router](https://github.com/TanmayZade/LeetCode/tree/master/3827-implement-router) |
 <!---LeetCode Topics End-->
