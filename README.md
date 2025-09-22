@@ -52,6 +52,7 @@ Link to my Profile: https://leetcode.com/u/_tanmay_zade_/
 | [2206-detonate-the-maximum-bombs](https://github.com/TanmayZade/LeetCode/tree/master/2206-detonate-the-maximum-bombs) |
 | [2429-design-a-food-rating-system](https://github.com/TanmayZade/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [3227-find-missing-and-repeated-values](https://github.com/TanmayZade/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/TanmayZade/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3797-design-spreadsheet](https://github.com/TanmayZade/LeetCode/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/TanmayZade/LeetCode/tree/master/3827-implement-router) |
 ## Hash Table
@@ -73,6 +74,7 @@ Link to my Profile: https://leetcode.com/u/_tanmay_zade_/
 | [1039-find-the-town-judge](https://github.com/TanmayZade/LeetCode/tree/master/1039-find-the-town-judge) |
 | [2429-design-a-food-rating-system](https://github.com/TanmayZade/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [3227-find-missing-and-repeated-values](https://github.com/TanmayZade/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/TanmayZade/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3678-design-task-manager](https://github.com/TanmayZade/LeetCode/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/TanmayZade/LeetCode/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/TanmayZade/LeetCode/tree/master/3827-implement-router) |
@@ -143,6 +145,7 @@ Link to my Profile: https://leetcode.com/u/_tanmay_zade_/
 | ------- |
 | [0169-majority-element](https://github.com/TanmayZade/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/TanmayZade/LeetCode/tree/master/0229-majority-element-ii) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/TanmayZade/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Dynamic Programming
 |  |
 | ------- |
