@@ -63,6 +63,7 @@ Link to my Profile: https://leetcode.com/u/_tanmay_zade_/
 | [0141-linked-list-cycle](https://github.com/TanmayZade/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/TanmayZade/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/TanmayZade/LeetCode/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/TanmayZade/LeetCode/tree/master/0202-happy-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/TanmayZade/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0229-majority-element-ii](https://github.com/TanmayZade/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/TanmayZade/LeetCode/tree/master/0242-valid-anagram) |
@@ -85,6 +86,7 @@ Link to my Profile: https://leetcode.com/u/_tanmay_zade_/
 | [0007-reverse-integer](https://github.com/TanmayZade/LeetCode/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/TanmayZade/LeetCode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/TanmayZade/LeetCode/tree/master/0062-unique-paths) |
+| [0202-happy-number](https://github.com/TanmayZade/LeetCode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/TanmayZade/LeetCode/tree/master/0268-missing-number) |
 | [0795-k-th-symbol-in-grammar](https://github.com/TanmayZade/LeetCode/tree/master/0795-k-th-symbol-in-grammar) |
 | [1013-fibonacci-number](https://github.com/TanmayZade/LeetCode/tree/master/1013-fibonacci-number) |
@@ -183,6 +185,7 @@ Link to my Profile: https://leetcode.com/u/_tanmay_zade_/
 | [0042-trapping-rain-water](https://github.com/TanmayZade/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/TanmayZade/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/TanmayZade/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/TanmayZade/LeetCode/tree/master/0202-happy-number) |
 | [0295-find-median-from-data-stream](https://github.com/TanmayZade/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/TanmayZade/LeetCode/tree/master/0344-reverse-string) |
 | [0908-middle-of-the-linked-list](https://github.com/TanmayZade/LeetCode/tree/master/0908-middle-of-the-linked-list) |
