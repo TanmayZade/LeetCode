@@ -1,20 +1,41 @@
+// class Solution {
+//     public boolean isHappy(int n) {
+//         int temp = n;
+//         Set<Integer> st = new HashSet<>();
+
+//         while(true){
+//         int sum = 0;
+//         while(temp > 0){
+//             int digit = temp % 10;
+//             sum += digit * digit;
+//             temp /= 10;
+//         }   
+//             if(sum == 1) return true;
+//             if(st.contains(sum)) return false;
+//             else st.add(sum);
+//             temp = sum;
+//         }
+//         // return false;
+//     }
+// }
+
 class Solution {
     public boolean isHappy(int n) {
-        int temp = n;
-        Set<Integer> st = new HashSet<>();
+        int slow = n, fast = n;
+        do {
+            slow = sumOfSquares(slow);
+            fast = sumOfSquares(sumOfSquares(fast));
+        } while (slow != fast);
+        return slow == 1;
+    }
 
-        while(true){
+    private int sumOfSquares(int num) {
         int sum = 0;
-        while(temp > 0){
-            int digit = temp % 10;
+        while (num > 0) {
+            int digit = num % 10;
             sum += digit * digit;
-            temp /= 10;
-        }   
-            if(sum == 1) return true;
-            if(st.contains(sum)) return false;
-            else st.add(sum);
-            temp = sum;
+            num /= 10;
         }
-        // return false;
+        return sum;
     }
 }
