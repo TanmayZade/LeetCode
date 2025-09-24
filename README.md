@@ -62,6 +62,7 @@ Link to my Profile: https://leetcode.com/u/_tanmay_zade_/
 | [0127-word-ladder](https://github.com/TanmayZade/LeetCode/tree/master/0127-word-ladder) |
 | [0141-linked-list-cycle](https://github.com/TanmayZade/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/TanmayZade/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0166-fraction-to-recurring-decimal](https://github.com/TanmayZade/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/TanmayZade/LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/TanmayZade/LeetCode/tree/master/0202-happy-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/TanmayZade/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
@@ -86,6 +87,7 @@ Link to my Profile: https://leetcode.com/u/_tanmay_zade_/
 | [0007-reverse-integer](https://github.com/TanmayZade/LeetCode/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/TanmayZade/LeetCode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/TanmayZade/LeetCode/tree/master/0062-unique-paths) |
+| [0166-fraction-to-recurring-decimal](https://github.com/TanmayZade/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0202-happy-number](https://github.com/TanmayZade/LeetCode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/TanmayZade/LeetCode/tree/master/0268-missing-number) |
 | [0795-k-th-symbol-in-grammar](https://github.com/TanmayZade/LeetCode/tree/master/0795-k-th-symbol-in-grammar) |
@@ -231,6 +233,7 @@ Link to my Profile: https://leetcode.com/u/_tanmay_zade_/
 | [0093-restore-ip-addresses](https://github.com/TanmayZade/LeetCode/tree/master/0093-restore-ip-addresses) |
 | [0127-word-ladder](https://github.com/TanmayZade/LeetCode/tree/master/0127-word-ladder) |
 | [0165-compare-version-numbers](https://github.com/TanmayZade/LeetCode/tree/master/0165-compare-version-numbers) |
+| [0166-fraction-to-recurring-decimal](https://github.com/TanmayZade/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0208-implement-trie-prefix-tree](https://github.com/TanmayZade/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/TanmayZade/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/TanmayZade/LeetCode/tree/master/0344-reverse-string) |
