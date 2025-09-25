@@ -28,6 +28,7 @@ Link to my Profile: https://leetcode.com/u/_tanmay_zade_/
 | [0042-trapping-rain-water](https://github.com/TanmayZade/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/TanmayZade/LeetCode/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/TanmayZade/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0120-triangle](https://github.com/TanmayZade/LeetCode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/TanmayZade/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/TanmayZade/LeetCode/tree/master/0130-surrounded-regions) |
 | [0164-maximum-gap](https://github.com/TanmayZade/LeetCode/tree/master/0164-maximum-gap) |
@@ -156,6 +157,7 @@ Link to my Profile: https://leetcode.com/u/_tanmay_zade_/
 | [0042-trapping-rain-water](https://github.com/TanmayZade/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/TanmayZade/LeetCode/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/TanmayZade/LeetCode/tree/master/0062-unique-paths) |
+| [0120-triangle](https://github.com/TanmayZade/LeetCode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/TanmayZade/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0542-01-matrix](https://github.com/TanmayZade/LeetCode/tree/master/0542-01-matrix) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/TanmayZade/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
