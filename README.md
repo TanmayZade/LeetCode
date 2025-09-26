@@ -41,6 +41,7 @@ Link to my Profile: https://leetcode.com/u/_tanmay_zade_/
 | [0540-single-element-in-a-sorted-array](https://github.com/TanmayZade/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/TanmayZade/LeetCode/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/TanmayZade/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0611-valid-triangle-number](https://github.com/TanmayZade/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0721-accounts-merge](https://github.com/TanmayZade/LeetCode/tree/master/0721-accounts-merge) |
 | [0792-binary-search](https://github.com/TanmayZade/LeetCode/tree/master/0792-binary-search) |
 | [0854-making-a-large-island](https://github.com/TanmayZade/LeetCode/tree/master/0854-making-a-large-island) |
@@ -114,6 +115,7 @@ Link to my Profile: https://leetcode.com/u/_tanmay_zade_/
 | [0074-search-a-2d-matrix](https://github.com/TanmayZade/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/TanmayZade/LeetCode/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/TanmayZade/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0611-valid-triangle-number](https://github.com/TanmayZade/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0792-binary-search](https://github.com/TanmayZade/LeetCode/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/TanmayZade/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1753-path-with-minimum-effort](https://github.com/TanmayZade/LeetCode/tree/master/1753-path-with-minimum-effort) |
@@ -144,6 +146,7 @@ Link to my Profile: https://leetcode.com/u/_tanmay_zade_/
 | [0242-valid-anagram](https://github.com/TanmayZade/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/TanmayZade/LeetCode/tree/master/0268-missing-number) |
 | [0295-find-median-from-data-stream](https://github.com/TanmayZade/LeetCode/tree/master/0295-find-median-from-data-stream) |
+| [0611-valid-triangle-number](https://github.com/TanmayZade/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0721-accounts-merge](https://github.com/TanmayZade/LeetCode/tree/master/0721-accounts-merge) |
 ## Counting
 |  |
@@ -193,6 +196,7 @@ Link to my Profile: https://leetcode.com/u/_tanmay_zade_/
 | [0202-happy-number](https://github.com/TanmayZade/LeetCode/tree/master/0202-happy-number) |
 | [0295-find-median-from-data-stream](https://github.com/TanmayZade/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/TanmayZade/LeetCode/tree/master/0344-reverse-string) |
+| [0611-valid-triangle-number](https://github.com/TanmayZade/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0908-middle-of-the-linked-list](https://github.com/TanmayZade/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 ## Stack
 |  |
@@ -386,4 +390,8 @@ Link to my Profile: https://leetcode.com/u/_tanmay_zade_/
 |  |
 | ------- |
 | [3827-implement-router](https://github.com/TanmayZade/LeetCode/tree/master/3827-implement-router) |
+## Greedy
+|  |
+| ------- |
+| [0611-valid-triangle-number](https://github.com/TanmayZade/LeetCode/tree/master/0611-valid-triangle-number) |
 <!---LeetCode Topics End-->
