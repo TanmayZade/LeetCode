@@ -44,6 +44,7 @@ Link to my Profile: https://leetcode.com/u/_tanmay_zade_/
 | [0611-valid-triangle-number](https://github.com/TanmayZade/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0721-accounts-merge](https://github.com/TanmayZade/LeetCode/tree/master/0721-accounts-merge) |
 | [0792-binary-search](https://github.com/TanmayZade/LeetCode/tree/master/0792-binary-search) |
+| [0830-largest-triangle-area](https://github.com/TanmayZade/LeetCode/tree/master/0830-largest-triangle-area) |
 | [0854-making-a-large-island](https://github.com/TanmayZade/LeetCode/tree/master/0854-making-a-large-island) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/TanmayZade/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1039-find-the-town-judge](https://github.com/TanmayZade/LeetCode/tree/master/1039-find-the-town-judge) |
@@ -93,6 +94,7 @@ Link to my Profile: https://leetcode.com/u/_tanmay_zade_/
 | [0202-happy-number](https://github.com/TanmayZade/LeetCode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/TanmayZade/LeetCode/tree/master/0268-missing-number) |
 | [0795-k-th-symbol-in-grammar](https://github.com/TanmayZade/LeetCode/tree/master/0795-k-th-symbol-in-grammar) |
+| [0830-largest-triangle-area](https://github.com/TanmayZade/LeetCode/tree/master/0830-largest-triangle-area) |
 | [1013-fibonacci-number](https://github.com/TanmayZade/LeetCode/tree/master/1013-fibonacci-number) |
 | [2206-detonate-the-maximum-bombs](https://github.com/TanmayZade/LeetCode/tree/master/2206-detonate-the-maximum-bombs) |
 | [3227-find-missing-and-repeated-values](https://github.com/TanmayZade/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
@@ -353,6 +355,7 @@ Link to my Profile: https://leetcode.com/u/_tanmay_zade_/
 ## Geometry
 |  |
 | ------- |
+| [0830-largest-triangle-area](https://github.com/TanmayZade/LeetCode/tree/master/0830-largest-triangle-area) |
 | [2206-detonate-the-maximum-bombs](https://github.com/TanmayZade/LeetCode/tree/master/2206-detonate-the-maximum-bombs) |
 ## String Matching
 |  |
