@@ -47,6 +47,7 @@ Link to my Profile: https://leetcode.com/u/_tanmay_zade_/
 | [0830-largest-triangle-area](https://github.com/TanmayZade/LeetCode/tree/master/0830-largest-triangle-area) |
 | [0854-making-a-large-island](https://github.com/TanmayZade/LeetCode/tree/master/0854-making-a-large-island) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/TanmayZade/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
+| [1018-largest-perimeter-triangle](https://github.com/TanmayZade/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1039-find-the-town-judge](https://github.com/TanmayZade/LeetCode/tree/master/1039-find-the-town-judge) |
 | [1073-number-of-enclaves](https://github.com/TanmayZade/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/TanmayZade/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -96,6 +97,7 @@ Link to my Profile: https://leetcode.com/u/_tanmay_zade_/
 | [0795-k-th-symbol-in-grammar](https://github.com/TanmayZade/LeetCode/tree/master/0795-k-th-symbol-in-grammar) |
 | [0830-largest-triangle-area](https://github.com/TanmayZade/LeetCode/tree/master/0830-largest-triangle-area) |
 | [1013-fibonacci-number](https://github.com/TanmayZade/LeetCode/tree/master/1013-fibonacci-number) |
+| [1018-largest-perimeter-triangle](https://github.com/TanmayZade/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [2206-detonate-the-maximum-bombs](https://github.com/TanmayZade/LeetCode/tree/master/2206-detonate-the-maximum-bombs) |
 | [3227-find-missing-and-repeated-values](https://github.com/TanmayZade/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## Matrix
@@ -150,6 +152,7 @@ Link to my Profile: https://leetcode.com/u/_tanmay_zade_/
 | [0295-find-median-from-data-stream](https://github.com/TanmayZade/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0611-valid-triangle-number](https://github.com/TanmayZade/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0721-accounts-merge](https://github.com/TanmayZade/LeetCode/tree/master/0721-accounts-merge) |
+| [1018-largest-perimeter-triangle](https://github.com/TanmayZade/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 ## Counting
 |  |
 | ------- |
@@ -397,4 +400,5 @@ Link to my Profile: https://leetcode.com/u/_tanmay_zade_/
 |  |
 | ------- |
 | [0611-valid-triangle-number](https://github.com/TanmayZade/LeetCode/tree/master/0611-valid-triangle-number) |
+| [1018-largest-perimeter-triangle](https://github.com/TanmayZade/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 <!---LeetCode Topics End-->
