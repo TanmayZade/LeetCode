@@ -54,6 +54,7 @@ Link to my Profile: https://leetcode.com/u/_tanmay_zade_/
 | [1325-path-with-maximum-probability](https://github.com/TanmayZade/LeetCode/tree/master/1325-path-with-maximum-probability) |
 | [1753-path-with-minimum-effort](https://github.com/TanmayZade/LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [2206-detonate-the-maximum-bombs](https://github.com/TanmayZade/LeetCode/tree/master/2206-detonate-the-maximum-bombs) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/TanmayZade/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2429-design-a-food-rating-system](https://github.com/TanmayZade/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [3227-find-missing-and-repeated-values](https://github.com/TanmayZade/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/TanmayZade/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -99,6 +100,7 @@ Link to my Profile: https://leetcode.com/u/_tanmay_zade_/
 | [1013-fibonacci-number](https://github.com/TanmayZade/LeetCode/tree/master/1013-fibonacci-number) |
 | [1018-largest-perimeter-triangle](https://github.com/TanmayZade/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [2206-detonate-the-maximum-bombs](https://github.com/TanmayZade/LeetCode/tree/master/2206-detonate-the-maximum-bombs) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/TanmayZade/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3227-find-missing-and-repeated-values](https://github.com/TanmayZade/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## Matrix
 |  |
@@ -175,6 +177,7 @@ Link to my Profile: https://leetcode.com/u/_tanmay_zade_/
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/TanmayZade/LeetCode/tree/master/0062-unique-paths) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/TanmayZade/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 ## Linked List
 |  |
 | ------- |
@@ -401,4 +404,8 @@ Link to my Profile: https://leetcode.com/u/_tanmay_zade_/
 | ------- |
 | [0611-valid-triangle-number](https://github.com/TanmayZade/LeetCode/tree/master/0611-valid-triangle-number) |
 | [1018-largest-perimeter-triangle](https://github.com/TanmayZade/LeetCode/tree/master/1018-largest-perimeter-triangle) |
+## Simulation
+|  |
+| ------- |
+| [2324-find-triangular-sum-of-an-array](https://github.com/TanmayZade/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 <!---LeetCode Topics End-->
