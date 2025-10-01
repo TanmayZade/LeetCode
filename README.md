@@ -99,6 +99,7 @@ Link to my Profile: https://leetcode.com/u/_tanmay_zade_/
 | [0830-largest-triangle-area](https://github.com/TanmayZade/LeetCode/tree/master/0830-largest-triangle-area) |
 | [1013-fibonacci-number](https://github.com/TanmayZade/LeetCode/tree/master/1013-fibonacci-number) |
 | [1018-largest-perimeter-triangle](https://github.com/TanmayZade/LeetCode/tree/master/1018-largest-perimeter-triangle) |
+| [1642-water-bottles](https://github.com/TanmayZade/LeetCode/tree/master/1642-water-bottles) |
 | [2206-detonate-the-maximum-bombs](https://github.com/TanmayZade/LeetCode/tree/master/2206-detonate-the-maximum-bombs) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/TanmayZade/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3227-find-missing-and-repeated-values](https://github.com/TanmayZade/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
@@ -407,5 +408,6 @@ Link to my Profile: https://leetcode.com/u/_tanmay_zade_/
 ## Simulation
 |  |
 | ------- |
+| [1642-water-bottles](https://github.com/TanmayZade/LeetCode/tree/master/1642-water-bottles) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/TanmayZade/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 <!---LeetCode Topics End-->
