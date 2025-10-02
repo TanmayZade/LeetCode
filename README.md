@@ -103,6 +103,7 @@ Link to my Profile: https://leetcode.com/u/_tanmay_zade_/
 | [2206-detonate-the-maximum-bombs](https://github.com/TanmayZade/LeetCode/tree/master/2206-detonate-the-maximum-bombs) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/TanmayZade/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3227-find-missing-and-repeated-values](https://github.com/TanmayZade/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
+| [3336-water-bottles-ii](https://github.com/TanmayZade/LeetCode/tree/master/3336-water-bottles-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -410,4 +411,5 @@ Link to my Profile: https://leetcode.com/u/_tanmay_zade_/
 | ------- |
 | [1642-water-bottles](https://github.com/TanmayZade/LeetCode/tree/master/1642-water-bottles) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/TanmayZade/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
+| [3336-water-bottles-ii](https://github.com/TanmayZade/LeetCode/tree/master/3336-water-bottles-ii) |
 <!---LeetCode Topics End-->
