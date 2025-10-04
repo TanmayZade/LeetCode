@@ -75,6 +75,7 @@ Link to my Profile: https://leetcode.com/u/_tanmay_zade_/
 | [0229-majority-element-ii](https://github.com/TanmayZade/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/TanmayZade/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/TanmayZade/LeetCode/tree/master/0268-missing-number) |
+| [0383-ransom-note](https://github.com/TanmayZade/LeetCode/tree/master/0383-ransom-note) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/TanmayZade/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/TanmayZade/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0721-accounts-merge](https://github.com/TanmayZade/LeetCode/tree/master/0721-accounts-merge) |
@@ -164,6 +165,7 @@ Link to my Profile: https://leetcode.com/u/_tanmay_zade_/
 | ------- |
 | [0169-majority-element](https://github.com/TanmayZade/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/TanmayZade/LeetCode/tree/master/0229-majority-element-ii) |
+| [0383-ransom-note](https://github.com/TanmayZade/LeetCode/tree/master/0383-ransom-note) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/TanmayZade/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Dynamic Programming
 |  |
@@ -256,6 +258,7 @@ Link to my Profile: https://leetcode.com/u/_tanmay_zade_/
 | [0208-implement-trie-prefix-tree](https://github.com/TanmayZade/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/TanmayZade/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/TanmayZade/LeetCode/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/TanmayZade/LeetCode/tree/master/0383-ransom-note) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/TanmayZade/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0721-accounts-merge](https://github.com/TanmayZade/LeetCode/tree/master/0721-accounts-merge) |
 | [0812-rotate-string](https://github.com/TanmayZade/LeetCode/tree/master/0812-rotate-string) |
