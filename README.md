@@ -214,6 +214,7 @@ Link to my Profile: https://leetcode.com/u/_tanmay_zade_/
 | [0019-remove-nth-node-from-end-of-list](https://github.com/TanmayZade/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/TanmayZade/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/TanmayZade/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0125-valid-palindrome](https://github.com/TanmayZade/LeetCode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/TanmayZade/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/TanmayZade/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0165-compare-version-numbers](https://github.com/TanmayZade/LeetCode/tree/master/0165-compare-version-numbers) |
@@ -263,6 +264,7 @@ Link to my Profile: https://leetcode.com/u/_tanmay_zade_/
 |  |
 | ------- |
 | [0093-restore-ip-addresses](https://github.com/TanmayZade/LeetCode/tree/master/0093-restore-ip-addresses) |
+| [0125-valid-palindrome](https://github.com/TanmayZade/LeetCode/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/TanmayZade/LeetCode/tree/master/0127-word-ladder) |
 | [0165-compare-version-numbers](https://github.com/TanmayZade/LeetCode/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/TanmayZade/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
