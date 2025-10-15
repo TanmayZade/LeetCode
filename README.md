@@ -38,6 +38,7 @@ Link to my Profile: https://leetcode.com/u/_tanmay_zade_/
 | [0215-kth-largest-element-in-an-array](https://github.com/TanmayZade/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/TanmayZade/LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/TanmayZade/LeetCode/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/TanmayZade/LeetCode/tree/master/0283-move-zeroes) |
 | [0407-trapping-rain-water-ii](https://github.com/TanmayZade/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/TanmayZade/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0485-max-consecutive-ones](https://github.com/TanmayZade/LeetCode/tree/master/0485-max-consecutive-ones) |
@@ -219,6 +220,7 @@ Link to my Profile: https://leetcode.com/u/_tanmay_zade_/
 | [0142-linked-list-cycle-ii](https://github.com/TanmayZade/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0165-compare-version-numbers](https://github.com/TanmayZade/LeetCode/tree/master/0165-compare-version-numbers) |
 | [0202-happy-number](https://github.com/TanmayZade/LeetCode/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/TanmayZade/LeetCode/tree/master/0283-move-zeroes) |
 | [0295-find-median-from-data-stream](https://github.com/TanmayZade/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/TanmayZade/LeetCode/tree/master/0344-reverse-string) |
 | [0611-valid-triangle-number](https://github.com/TanmayZade/LeetCode/tree/master/0611-valid-triangle-number) |
