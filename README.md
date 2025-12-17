@@ -449,4 +449,5 @@ Link to my Profile: https://leetcode.com/u/_tanmay_zade_/
 | [0511-game-play-analysis-i](https://github.com/TanmayZade/LeetCode/tree/master/0511-game-play-analysis-i) |
 | [0607-sales-person](https://github.com/TanmayZade/LeetCode/tree/master/0607-sales-person) |
 | [0610-triangle-judgement](https://github.com/TanmayZade/LeetCode/tree/master/0610-triangle-judgement) |
+| [0619-biggest-single-number](https://github.com/TanmayZade/LeetCode/tree/master/0619-biggest-single-number) |
 <!---LeetCode Topics End-->
