@@ -443,4 +443,8 @@ Link to my Profile: https://leetcode.com/u/_tanmay_zade_/
 |  |
 | ------- |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/TanmayZade/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
+## Database
+|  |
+| ------- |
+| [0511-game-play-analysis-i](https://github.com/TanmayZade/LeetCode/tree/master/0511-game-play-analysis-i) |
 <!---LeetCode Topics End-->
