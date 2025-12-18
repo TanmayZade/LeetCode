@@ -479,4 +479,5 @@ Link to my Profile: https://leetcode.com/u/_tanmay_zade_/
 | [1789-primary-department-for-each-employee](https://github.com/TanmayZade/LeetCode/tree/master/1789-primary-department-for-each-employee) |
 | [1795-rearrange-products-table](https://github.com/TanmayZade/LeetCode/tree/master/1795-rearrange-products-table) |
 | [1873-calculate-special-bonus](https://github.com/TanmayZade/LeetCode/tree/master/1873-calculate-special-bonus) |
+| [1890-the-latest-login-in-2020](https://github.com/TanmayZade/LeetCode/tree/master/1890-the-latest-login-in-2020) |
 <!---LeetCode Topics End-->
