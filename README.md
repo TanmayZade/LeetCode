@@ -461,4 +461,5 @@ Link to my Profile: https://leetcode.com/u/_tanmay_zade_/
 | [1179-reformat-department-table](https://github.com/TanmayZade/LeetCode/tree/master/1179-reformat-department-table) |
 | [1211-queries-quality-and-percentage](https://github.com/TanmayZade/LeetCode/tree/master/1211-queries-quality-and-percentage) |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/TanmayZade/LeetCode/tree/master/1327-list-the-products-ordered-in-a-period) |
+| [1378-replace-employee-id-with-the-unique-identifier](https://github.com/TanmayZade/LeetCode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 <!---LeetCode Topics End-->
