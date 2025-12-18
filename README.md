@@ -480,4 +480,5 @@ Link to my Profile: https://leetcode.com/u/_tanmay_zade_/
 | [1795-rearrange-products-table](https://github.com/TanmayZade/LeetCode/tree/master/1795-rearrange-products-table) |
 | [1873-calculate-special-bonus](https://github.com/TanmayZade/LeetCode/tree/master/1873-calculate-special-bonus) |
 | [1890-the-latest-login-in-2020](https://github.com/TanmayZade/LeetCode/tree/master/1890-the-latest-login-in-2020) |
+| [1965-employees-with-missing-information](https://github.com/TanmayZade/LeetCode/tree/master/1965-employees-with-missing-information) |
 <!---LeetCode Topics End-->
