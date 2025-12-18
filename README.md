@@ -481,4 +481,5 @@ Link to my Profile: https://leetcode.com/u/_tanmay_zade_/
 | [1873-calculate-special-bonus](https://github.com/TanmayZade/LeetCode/tree/master/1873-calculate-special-bonus) |
 | [1890-the-latest-login-in-2020](https://github.com/TanmayZade/LeetCode/tree/master/1890-the-latest-login-in-2020) |
 | [1965-employees-with-missing-information](https://github.com/TanmayZade/LeetCode/tree/master/1965-employees-with-missing-information) |
+| [3465-find-products-with-valid-serial-numbers](https://github.com/TanmayZade/LeetCode/tree/master/3465-find-products-with-valid-serial-numbers) |
 <!---LeetCode Topics End-->
