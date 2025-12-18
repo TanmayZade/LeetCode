@@ -463,4 +463,5 @@ Link to my Profile: https://leetcode.com/u/_tanmay_zade_/
 | [1327-list-the-products-ordered-in-a-period](https://github.com/TanmayZade/LeetCode/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/TanmayZade/LeetCode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1407-top-travellers](https://github.com/TanmayZade/LeetCode/tree/master/1407-top-travellers) |
+| [1484-group-sold-products-by-the-date](https://github.com/TanmayZade/LeetCode/tree/master/1484-group-sold-products-by-the-date) |
 <!---LeetCode Topics End-->
