@@ -472,4 +472,5 @@ Link to my Profile: https://leetcode.com/u/_tanmay_zade_/
 | [1661-average-time-of-process-per-machine](https://github.com/TanmayZade/LeetCode/tree/master/1661-average-time-of-process-per-machine) |
 | [1667-fix-names-in-a-table](https://github.com/TanmayZade/LeetCode/tree/master/1667-fix-names-in-a-table) |
 | [1683-invalid-tweets](https://github.com/TanmayZade/LeetCode/tree/master/1683-invalid-tweets) |
+| [1693-daily-leads-and-partners](https://github.com/TanmayZade/LeetCode/tree/master/1693-daily-leads-and-partners) |
 <!---LeetCode Topics End-->
