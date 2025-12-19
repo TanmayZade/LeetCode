@@ -446,6 +446,7 @@ Link to my Profile: https://leetcode.com/u/_tanmay_zade_/
 ## Database
 |  |
 | ------- |
+| [0176-second-highest-salary](https://github.com/TanmayZade/LeetCode/tree/master/0176-second-highest-salary) |
 | [0511-game-play-analysis-i](https://github.com/TanmayZade/LeetCode/tree/master/0511-game-play-analysis-i) |
 | [0607-sales-person](https://github.com/TanmayZade/LeetCode/tree/master/0607-sales-person) |
 | [0610-triangle-judgement](https://github.com/TanmayZade/LeetCode/tree/master/0610-triangle-judgement) |
