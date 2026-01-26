@@ -57,6 +57,7 @@ Link to my Profile: https://leetcode.com/u/_tanmay_zade_/
 | [0830-largest-triangle-area](https://github.com/TanmayZade/LeetCode/tree/master/0830-largest-triangle-area) |
 | [0854-making-a-large-island](https://github.com/TanmayZade/LeetCode/tree/master/0854-making-a-large-island) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/TanmayZade/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
+| [0992-subarrays-with-k-different-integers](https://github.com/TanmayZade/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1018-largest-perimeter-triangle](https://github.com/TanmayZade/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1039-find-the-town-judge](https://github.com/TanmayZade/LeetCode/tree/master/1039-find-the-town-judge) |
 | [1073-number-of-enclaves](https://github.com/TanmayZade/LeetCode/tree/master/1073-number-of-enclaves) |
@@ -94,6 +95,7 @@ Link to my Profile: https://leetcode.com/u/_tanmay_zade_/
 | [0560-subarray-sum-equals-k](https://github.com/TanmayZade/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0721-accounts-merge](https://github.com/TanmayZade/LeetCode/tree/master/0721-accounts-merge) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/TanmayZade/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [0992-subarrays-with-k-different-integers](https://github.com/TanmayZade/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1039-find-the-town-judge](https://github.com/TanmayZade/LeetCode/tree/master/1039-find-the-town-judge) |
 | [2429-design-a-food-rating-system](https://github.com/TanmayZade/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [3227-find-missing-and-repeated-values](https://github.com/TanmayZade/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
@@ -192,6 +194,7 @@ Link to my Profile: https://leetcode.com/u/_tanmay_zade_/
 | [0229-majority-element-ii](https://github.com/TanmayZade/LeetCode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/TanmayZade/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/TanmayZade/LeetCode/tree/master/0383-ransom-note) |
+| [0992-subarrays-with-k-different-integers](https://github.com/TanmayZade/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/TanmayZade/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Dynamic Programming
 |  |
@@ -403,6 +406,7 @@ Link to my Profile: https://leetcode.com/u/_tanmay_zade_/
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/TanmayZade/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/TanmayZade/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0992-subarrays-with-k-different-integers](https://github.com/TanmayZade/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 ## Shortest Path
 |  |
 | ------- |
