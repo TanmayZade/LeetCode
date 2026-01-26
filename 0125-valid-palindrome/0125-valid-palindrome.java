@@ -5,16 +5,16 @@ class Solution {
         while(left < right){
             Character l = s.charAt(left), r = s.charAt(right);
 
-            if(!Character.isLetterOrDigit(l))
+            if(!Character.isLetterOrDigit(l)){
                 left++;
-            else if(!Character.isLetterOrDigit(r))
-                right--;
+            }else if(!Character.isLetterOrDigit(r)) right--;
             else if(Character.toLowerCase(l) != Character.toLowerCase(r)) return false;
             else{
                 left++;
                 right--;
             }
         }
+
         return true;
     }
 }
