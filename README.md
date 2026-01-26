@@ -27,6 +27,7 @@ Link to my Profile: https://leetcode.com/u/_tanmay_zade_/
 | [0026-remove-duplicates-from-sorted-array](https://github.com/TanmayZade/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/TanmayZade/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/TanmayZade/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0049-group-anagrams](https://github.com/TanmayZade/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/TanmayZade/LeetCode/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/TanmayZade/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0120-triangle](https://github.com/TanmayZade/LeetCode/tree/master/0120-triangle) |
@@ -73,6 +74,7 @@ Link to my Profile: https://leetcode.com/u/_tanmay_zade_/
 | ------- |
 | [0001-two-sum](https://github.com/TanmayZade/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/TanmayZade/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/TanmayZade/LeetCode/tree/master/0049-group-anagrams) |
 | [0127-word-ladder](https://github.com/TanmayZade/LeetCode/tree/master/0127-word-ladder) |
 | [0141-linked-list-cycle](https://github.com/TanmayZade/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/TanmayZade/LeetCode/tree/master/0142-linked-list-cycle-ii) |
@@ -165,6 +167,7 @@ Link to my Profile: https://leetcode.com/u/_tanmay_zade_/
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/TanmayZade/LeetCode/tree/master/0049-group-anagrams) |
 | [0164-maximum-gap](https://github.com/TanmayZade/LeetCode/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/TanmayZade/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/TanmayZade/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -274,6 +277,7 @@ Link to my Profile: https://leetcode.com/u/_tanmay_zade_/
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/TanmayZade/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/TanmayZade/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/TanmayZade/LeetCode/tree/master/0049-group-anagrams) |
 | [0093-restore-ip-addresses](https://github.com/TanmayZade/LeetCode/tree/master/0093-restore-ip-addresses) |
 | [0125-valid-palindrome](https://github.com/TanmayZade/LeetCode/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/TanmayZade/LeetCode/tree/master/0127-word-ladder) |
