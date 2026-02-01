@@ -320,6 +320,7 @@ Link to my Profile: https://leetcode.com/u/_tanmay_zade_/
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/TanmayZade/LeetCode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/TanmayZade/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0130-surrounded-regions](https://github.com/TanmayZade/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/TanmayZade/LeetCode/tree/master/0200-number-of-islands) |
@@ -344,6 +345,7 @@ Link to my Profile: https://leetcode.com/u/_tanmay_zade_/
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/TanmayZade/LeetCode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/TanmayZade/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0127-word-ladder](https://github.com/TanmayZade/LeetCode/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/TanmayZade/LeetCode/tree/master/0130-surrounded-regions) |
@@ -524,9 +526,11 @@ Link to my Profile: https://leetcode.com/u/_tanmay_zade_/
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/TanmayZade/LeetCode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/TanmayZade/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/TanmayZade/LeetCode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/TanmayZade/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
