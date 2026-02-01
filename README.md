@@ -320,6 +320,7 @@ Link to my Profile: https://leetcode.com/u/_tanmay_zade_/
 ## Depth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/TanmayZade/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0130-surrounded-regions](https://github.com/TanmayZade/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/TanmayZade/LeetCode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/TanmayZade/LeetCode/tree/master/0207-course-schedule) |
@@ -343,6 +344,7 @@ Link to my Profile: https://leetcode.com/u/_tanmay_zade_/
 ## Breadth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/TanmayZade/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0127-word-ladder](https://github.com/TanmayZade/LeetCode/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/TanmayZade/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/TanmayZade/LeetCode/tree/master/0200-number-of-islands) |
@@ -519,4 +521,12 @@ Link to my Profile: https://leetcode.com/u/_tanmay_zade_/
 | [1890-the-latest-login-in-2020](https://github.com/TanmayZade/LeetCode/tree/master/1890-the-latest-login-in-2020) |
 | [1965-employees-with-missing-information](https://github.com/TanmayZade/LeetCode/tree/master/1965-employees-with-missing-information) |
 | [3465-find-products-with-valid-serial-numbers](https://github.com/TanmayZade/LeetCode/tree/master/3465-find-products-with-valid-serial-numbers) |
+## Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/TanmayZade/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/TanmayZade/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
