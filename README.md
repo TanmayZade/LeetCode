@@ -341,6 +341,7 @@ Link to my Profile: https://leetcode.com/u/_tanmay_zade_/
 | [0207-course-schedule](https://github.com/TanmayZade/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/TanmayZade/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/TanmayZade/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/TanmayZade/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/TanmayZade/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0547-number-of-provinces](https://github.com/TanmayZade/LeetCode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/TanmayZade/LeetCode/tree/master/0684-redundant-connection) |
@@ -555,6 +556,7 @@ Link to my Profile: https://leetcode.com/u/_tanmay_zade_/
 | [0129-sum-root-to-leaf-numbers](https://github.com/TanmayZade/LeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0222-count-complete-tree-nodes](https://github.com/TanmayZade/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/TanmayZade/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/TanmayZade/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -568,4 +570,5 @@ Link to my Profile: https://leetcode.com/u/_tanmay_zade_/
 | [0129-sum-root-to-leaf-numbers](https://github.com/TanmayZade/LeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0222-count-complete-tree-nodes](https://github.com/TanmayZade/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/TanmayZade/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/TanmayZade/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 <!---LeetCode Topics End-->
