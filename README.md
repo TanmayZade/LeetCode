@@ -346,6 +346,7 @@ Link to my Profile: https://leetcode.com/u/_tanmay_zade_/
 | [0207-course-schedule](https://github.com/TanmayZade/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/TanmayZade/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/TanmayZade/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/TanmayZade/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/TanmayZade/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/TanmayZade/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/TanmayZade/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -573,6 +574,7 @@ Link to my Profile: https://leetcode.com/u/_tanmay_zade_/
 | [0199-binary-tree-right-side-view](https://github.com/TanmayZade/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/TanmayZade/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/TanmayZade/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/TanmayZade/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/TanmayZade/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/TanmayZade/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/TanmayZade/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -594,6 +596,7 @@ Link to my Profile: https://leetcode.com/u/_tanmay_zade_/
 | [0199-binary-tree-right-side-view](https://github.com/TanmayZade/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/TanmayZade/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/TanmayZade/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/TanmayZade/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/TanmayZade/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/TanmayZade/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/TanmayZade/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -601,6 +604,7 @@ Link to my Profile: https://leetcode.com/u/_tanmay_zade_/
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/TanmayZade/LeetCode/tree/master/0173-binary-search-tree-iterator) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/TanmayZade/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/TanmayZade/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Iterator
 |  |
