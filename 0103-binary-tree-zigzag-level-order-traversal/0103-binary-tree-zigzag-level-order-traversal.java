@@ -27,10 +27,12 @@ class Solution {
                 TreeNode curr = q.poll();
                 if(curr.left != null) q.add(curr.left);
                 if(curr.right != null) q.add(curr.right);
-                levelEle.add(curr.val);
+                if(reverse) levelEle.addFirst(curr.val);
+                else levelEle.addLast(curr.val);
+                // levelEle.add(curr.val);
             }
 
-            if(reverse) Collections.reverse(levelEle);
+            // if(reverse) Collections.reverse(levelEle);
             res.add(levelEle);
             reverse = !reverse;
         }
