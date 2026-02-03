@@ -348,6 +348,7 @@ Link to my Profile: https://leetcode.com/u/_tanmay_zade_/
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/TanmayZade/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/TanmayZade/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0547-number-of-provinces](https://github.com/TanmayZade/LeetCode/tree/master/0547-number-of-provinces) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/TanmayZade/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0684-redundant-connection](https://github.com/TanmayZade/LeetCode/tree/master/0684-redundant-connection) |
 | [0721-accounts-merge](https://github.com/TanmayZade/LeetCode/tree/master/0721-accounts-merge) |
 | [0794-swim-in-rising-water](https://github.com/TanmayZade/LeetCode/tree/master/0794-swim-in-rising-water) |
@@ -380,6 +381,7 @@ Link to my Profile: https://leetcode.com/u/_tanmay_zade_/
 | [0417-pacific-atlantic-water-flow](https://github.com/TanmayZade/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0542-01-matrix](https://github.com/TanmayZade/LeetCode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/TanmayZade/LeetCode/tree/master/0547-number-of-provinces) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/TanmayZade/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0684-redundant-connection](https://github.com/TanmayZade/LeetCode/tree/master/0684-redundant-connection) |
 | [0721-accounts-merge](https://github.com/TanmayZade/LeetCode/tree/master/0721-accounts-merge) |
 | [0794-swim-in-rising-water](https://github.com/TanmayZade/LeetCode/tree/master/0794-swim-in-rising-water) |
@@ -565,6 +567,7 @@ Link to my Profile: https://leetcode.com/u/_tanmay_zade_/
 | [0222-count-complete-tree-nodes](https://github.com/TanmayZade/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/TanmayZade/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/TanmayZade/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/TanmayZade/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -582,6 +585,7 @@ Link to my Profile: https://leetcode.com/u/_tanmay_zade_/
 | [0222-count-complete-tree-nodes](https://github.com/TanmayZade/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/TanmayZade/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/TanmayZade/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/TanmayZade/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
