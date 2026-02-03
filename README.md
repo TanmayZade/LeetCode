@@ -213,6 +213,7 @@ Link to my Profile: https://leetcode.com/u/_tanmay_zade_/
 | [0062-unique-paths](https://github.com/TanmayZade/LeetCode/tree/master/0062-unique-paths) |
 | [0120-triangle](https://github.com/TanmayZade/LeetCode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/TanmayZade/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/TanmayZade/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0542-01-matrix](https://github.com/TanmayZade/LeetCode/tree/master/0542-01-matrix) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/TanmayZade/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1013-fibonacci-number](https://github.com/TanmayZade/LeetCode/tree/master/1013-fibonacci-number) |
@@ -337,6 +338,7 @@ Link to my Profile: https://leetcode.com/u/_tanmay_zade_/
 | [0112-path-sum](https://github.com/TanmayZade/LeetCode/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/TanmayZade/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/TanmayZade/LeetCode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/TanmayZade/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/TanmayZade/LeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0130-surrounded-regions](https://github.com/TanmayZade/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/TanmayZade/LeetCode/tree/master/0200-number-of-islands) |
@@ -555,6 +557,7 @@ Link to my Profile: https://leetcode.com/u/_tanmay_zade_/
 | [0112-path-sum](https://github.com/TanmayZade/LeetCode/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/TanmayZade/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/TanmayZade/LeetCode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/TanmayZade/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/TanmayZade/LeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0173-binary-search-tree-iterator](https://github.com/TanmayZade/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0222-count-complete-tree-nodes](https://github.com/TanmayZade/LeetCode/tree/master/0222-count-complete-tree-nodes) |
@@ -570,6 +573,7 @@ Link to my Profile: https://leetcode.com/u/_tanmay_zade_/
 | [0112-path-sum](https://github.com/TanmayZade/LeetCode/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/TanmayZade/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/TanmayZade/LeetCode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/TanmayZade/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/TanmayZade/LeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0173-binary-search-tree-iterator](https://github.com/TanmayZade/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0222-count-complete-tree-nodes](https://github.com/TanmayZade/LeetCode/tree/master/0222-count-complete-tree-nodes) |
